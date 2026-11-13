@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none" role="img" aria-label="Codemade">
+  <circle cx="64.0" cy="64.0" r="64.0" fill="#0C1F4A"/>
+  <g transform="translate(18.000 46.595) scale(0.310811)">
+  <rect x="46" y="0" width="20" height="20" rx="4.0" fill="#FFFFFF"/>
+  <rect x="23" y="23" width="20" height="20" rx="4.0" fill="#FFFFFF"/>
+  <rect x="0" y="46" width="20" height="20" rx="4.0" fill="#FFFFFF"/>
+  <rect x="23" y="69" width="20" height="20" rx="4.0" fill="#FFFFFF"/>
+  <rect x="46" y="92" width="20" height="20" rx="4.0" fill="#FFFFFF"/>
+  <rect x="230" y="0" width="20" height="20" rx="4.0" fill="#FFFFFF"/>
+  <rect x="253" y="23" width="20" height="20" rx="4.0" fill="#FFFFFF"/>
+  <rect x="276" y="46" width="20" height="20" rx="4.0" fill="#FFFFFF"/>
+  <rect x="253" y="69" width="20" height="20" rx="4.0" fill="#FFFFFF"/>
+  <rect x="230" y="92" width="20" height="20" rx="4.0" fill="#FFFFFF"/>
+  <rect x="184" y="0" width="20" height="20" rx="4.0" fill="#2E6BFF"/>
+  <rect x="161" y="23" width="20" height="20" rx="4.0" fill="#2E6BFF"/>
+  <rect x="138" y="46" width="20" height="20" rx="4.0" fill="#2E6BFF"/>
+  <rect x="115" y="69" width="20" height="20" rx="4.0" fill="#2E6BFF"/>
+  <rect x="92" y="92" width="20" height="20" rx="4.0" fill="#2E6BFF"/>
+  </g>
+</svg>
