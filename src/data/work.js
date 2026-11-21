@@ -6,14 +6,15 @@
  */
 export const projects = [
   {
-    slug: 'saas-landing',
-    title: 'SaaS landing page',
-    stack: ['Figma', 'React'],
+    slug: 'flowlane',
+    title: 'Flowlane',
+    stack: ['Figma', 'React', 'Tailwind'],
     summary:
-      'A product landing page designed in Figma and built in React — hero, features, pricing, and FAQs.',
-    status: 'coming-soon',
-    href: null,
-    image: null,
+      'SaaS landing page — designed in Figma, built in React. Hero with a live product UI, features, pricing toggle, and FAQs.',
+    status: 'live',
+    label: 'Concept project',
+    href: 'https://flowlane-beta.vercel.app',
+    image: '/work/flowlane.webp',
   },
   {
     slug: 'admin-dashboard',
