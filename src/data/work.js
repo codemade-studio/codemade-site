@@ -39,13 +39,14 @@ export const projects = [
     image: '/work/aldermoor.webp',
   },
   {
-    slug: 'ai-chatbot',
-    title: 'AI support chatbot integration',
-    stack: ['AI', 'React'],
+    slug: 'tidewell',
+    title: 'AI support chatbot',
+    stack: ['React', 'Tailwind', 'AI'],
     summary:
-      'A support chatbot added to an existing site, designed to handle common questions and hand off to a human when needed.',
-    status: 'coming-soon',
-    href: null,
-    image: null,
+      'FAQ-trained support assistant with booking and human handoff. Built in React.',
+    status: 'live',
+    label: 'Concept project',
+    href: 'https://tidewell-nine-xi.vercel.app',
+    image: '/work/tidewell.webp',
   },
 ]
