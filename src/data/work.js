@@ -17,14 +17,15 @@ export const projects = [
     image: '/work/flowlane.webp',
   },
   {
-    slug: 'admin-dashboard',
-    title: 'Admin dashboard',
-    stack: ['React'],
+    slug: 'mosswell',
+    title: 'Mosswell',
+    stack: ['React', 'Tailwind', 'Recharts'],
     summary:
-      'An admin dashboard with tables, filters, and charts — built to show the systems and portals we ship for agencies.',
-    status: 'coming-soon',
-    href: null,
-    image: null,
+      'Revenue & operations dashboard — charts, data tables, filters, and dark mode. Built in React.',
+    status: 'live',
+    label: 'Concept project',
+    href: 'https://mosswell-bice.vercel.app',
+    image: '/work/mosswell.webp',
   },
   {
     slug: 'ecommerce-store',
