@@ -28,14 +28,15 @@ export const projects = [
     image: '/work/mosswell.webp',
   },
   {
-    slug: 'ecommerce-store',
-    title: 'E-commerce store',
-    stack: ['Shopify', 'WooCommerce'],
+    slug: 'aldermoor',
+    title: 'Aldermoor',
+    stack: ['React', 'Tailwind', 'React Router'],
     summary:
-      'A custom storefront with product pages, checkout, and room for extra features — on Shopify or WooCommerce.',
-    status: 'coming-soon',
-    href: null,
-    image: null,
+      'E-commerce store — product filters, variants, cart and multi-step checkout. Built in React.',
+    status: 'live',
+    label: 'Concept project',
+    href: 'https://aldermoor-eight.vercel.app',
+    image: '/work/aldermoor.webp',
   },
   {
     slug: 'ai-chatbot',
